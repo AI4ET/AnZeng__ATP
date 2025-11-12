@@ -1,4 +1,4 @@
-# AnZeng__ATP: ATP Player Performance Analysis
+# AnZengATP: ATP Player Performance Analysis
 
 An end-to-end data analysis pipeline for scraping, processing, and visualizing ATP tennis player performance using custom $\delta$ (delta) and $\alpha$ (alpha) metrics.
 
